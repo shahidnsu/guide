@@ -1,12 +1,11 @@
 # A Guide Just for Me ;-)
-**Learning How to Program First in a Strictly Typed Language, then Web Development Second**
 ### Date Started: September 9, 2019
 ---
 ---
 **Beginning Programming using Scala**
-- _do in the evening alongside ap cs_
+- _do in the evening alongside aalto_
 - [ ]  [Just the Maths - Hobson](https://archive.uea.ac.uk/jtm/contents.htm) do alongside aalto
-- [ ]  [Basics of Programming MOOC - Aalto](https://plus.cs.aalto.fi/o1/2019/) Sept 11, 2019 to Apr 14, 2020
+- [ ]  [Basics of Programming MOOC - Aalto](https://plus.cs.aalto.fi/o1/2019/) Sept 11, 2019 to Apr 1, 2020
 ---
 ---
 **AP Computer Science ++**
@@ -17,14 +16,15 @@
 - [ ]  [Algorithms & Data Structures - CS Dojo](https://www.youtube.com/playlist?list=PLBZBJbE_rGRV8D7XZ08LK6z-4zPoWzu5H)
 - [ ]  [Cracking the Coding Interview - hackerRank](https://www.youtube.com/playlist?list=PLOuZYwbmgZWXvkghUyMLdI90IwxbNCiWK)
 - [ ]  [Design Patterns - Derek Banas](https://www.youtube.com/playlist?list=PLF206E906175C7E07)
-- _do in the morning_
+- _do in the morning alongside moocfi_
 - [ ]  [AP Computer Science A: Java Programming - PurdueX](https://www.edx.org/course/ap-computer-science-a-java-programming-3) Sep 3, 2019
 - [ ]  [AP Computer Science A: Java Programming Loops and Data Structures - PurdueX](https://www.edx.org/course/ap-computer-science-a-java-programming-loops-and-data-structures-4) Oct 22, 2019
 - [ ]  [AP Computer Science A: Java Programming Classes and Objects - PurdueX](https://www.edx.org/course/ap-computer-science-a-java-programming-classes-and-objects-3) Jan 14, 2020
 - [ ]  [AP Computer Science A: Java Programming Polymorphism and Advanced Data Structures](https://www.edx.org/course/ap-computer-science-a-java-programming-polymorphism-and-advanced-data-structures-3) Mar 3, 2020
-    - _do in the morning alongside purduex whenever I completed early its weekly lessons_
+    - _do in the morning alongside purduex but only whenever I completed early the weekly lessons_
     - [ ]  [Programming with Java 1 - moocfi](http://moocfi.github.io/courses/2013/programming-part-1/material.html)
     - [ ]  [Programming with Java 2 - moocfi](http://moocfi.github.io/courses/2013/programming-part-2/material.html)
+- _do in the morning, after intro to react, parallel with fullstack moocfi_
 - [ ]  [Fork Java - GeeksForGeeks](https://practice.geeksforgeeks.org/courses/fork-java?vC=1)
 - [ ]  [Algorithms: Design and Analysis 1 - Stanford](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms1+SelfPaced/about)
 - [ ]  [Algorithms: Design and Analysis 2 - Stanford](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms2+SelfPaced/about)
@@ -54,16 +54,18 @@
 ---
 **Full Stack JS** 
 - _do these courses only if fullstack moocfi is available in June 2020 - else jump to epicodus_
-- [ ]  [The Javascript Way - bpesquet](https://github.com/bpesquet/thejsway) do alongside mongodb & react
-- [ ]  [MongoDB Basics - MongoDB Uni](https://university.mongodb.com/courses/M001/about)
-- [ ]  [MongoDB for Java Developers - MongoDB Uni](https://university.mongodb.com/courses/M220J/about)
-- [ ]  [Tutorial: Intro to React](https://reactjs.org/tutorial/tutorial.html)
-- [ ]  [Full Stack Open 2020? - moocfi](https://www.mooc.fi/en/) 
+- _do right away after completing aalto, purduex & moocfi_
+- [ ]  [The Javascript Way - bpesquet](https://github.com/bpesquet/thejsway) do alongside mongodb & react, do in the evening
+- [ ]  [MongoDB Basics - MongoDB Uni](https://university.mongodb.com/courses/M001/about) do in the morning
+- [ ]  [MongoDB for Java Developers - MongoDB Uni](https://university.mongodb.com/courses/M220J/about) do in the morning
+- [ ]  [Tutorial: Intro to React](https://reactjs.org/tutorial/tutorial.html) do in the morning
+- [ ]  [Full Stack Open 2020? - moocfi](https://www.mooc.fi/en/) do in the evening 
 ---
 **Epicodus Bootcamp**
-- _do in the morning_
+- _do in the morning and evening_
 - [ ]  [Beginning Web Development - Epicodus](https://www.learnhowtoprogram.com/introduction-to-programming)
 - [ ]  [Intermediate Javascript - Epicodus](https://www.learnhowtoprogram.com/intermediate-javascript)
+- [ ]  [C# and .NET Core - Epicodus](https://www.learnhowtoprogram.com/c-and-net)
 - [ ]  [React - Epicodus](https://www.learnhowtoprogram.com/react)
 - [ ]  [User Interfaces - Epicodus](https://www.learnhowtoprogram.com/user-interfaces) skip all lessons that has to do with Sketch
 
@@ -76,7 +78,6 @@
 ---
 ---
 **Future Courses to Tackle**
-- [ ]  [C# and .NET Core - Epicodus](https://www.learnhowtoprogram.com/c-and-net)
 - [ ]  [Ruby and Rails - Epicodus](https://www.learnhowtoprogram.com/ruby-and-rails)
 - Elixir 
 - GoLang 
