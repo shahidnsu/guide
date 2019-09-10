@@ -3,7 +3,7 @@
 ---
 ---
 **Beginning Programming using Scala**
-- _do in the evening alongside aalto_
+- _do in the evening_
 - [ ]  [Just the Maths - Hobson](https://archive.uea.ac.uk/jtm/contents.htm) do alongside aalto
 - [ ]  [Basics of Programming MOOC - Aalto](https://plus.cs.aalto.fi/o1/2019/) Sept 11, 2019 to Apr 1, 2020
 ---
@@ -56,6 +56,7 @@
 - _do these courses only if fullstack moocfi is available in June 2020 - else jump to epicodus_
 - _do right away after completing aalto, purduex & moocfi_
 - [ ]  [The Javascript Way - bpesquet](https://github.com/bpesquet/thejsway) do alongside mongodb & react, do in the evening
+- [ ]  [Git, HTML and CSS - Epicodus](https://www.learnhowtoprogram.com/introduction-to-programming/git-html-and-css-50152baf-07d4-4238-8421-4d6c423e6032) do in the morning
 - [ ]  [MongoDB Basics - MongoDB Uni](https://university.mongodb.com/courses/M001/about) do in the morning
 - [ ]  [MongoDB for Java Developers - MongoDB Uni](https://university.mongodb.com/courses/M220J/about) do in the morning
 - [ ]  [Tutorial: Intro to React](https://reactjs.org/tutorial/tutorial.html) do in the morning
