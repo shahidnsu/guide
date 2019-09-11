@@ -25,10 +25,9 @@
     - [ ]  [Programming with Java 1 - moocfi](http://moocfi.github.io/courses/2013/programming-part-1/material.html)
     - [ ]  [Programming with Java 2 - moocfi](http://moocfi.github.io/courses/2013/programming-part-2/material.html)
 - _do in the morning, after intro to react, parallel with fullstack moocfi_
-- [ ]  [Fork Java - GeeksForGeeks](https://practice.geeksforgeeks.org/courses/fork-java?vC=1)
 - [ ]  [Algorithms: Design and Analysis 1 - Stanford](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms1+SelfPaced/about)
 - [ ]  [Algorithms: Design and Analysis 2 - Stanford](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms2+SelfPaced/about)
-- [ ]  [Software Design Patterns - GeeksForGeeks](https://www.geeksforgeeks.org/software-design-patterns/)
+- [ ]  [Computer Science Algorithms Specialization - P1xt](https://github.com/P1xt/p1xt-guides/blob/master/specializations/algorithms.md) this is a comprehensive guide, do gradually/incementally along the guide
 ---
 **SQL Courses**
 - _do in the afternoon_
