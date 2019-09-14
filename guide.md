@@ -26,10 +26,10 @@
 ---
 ---
 **Epicodus Bootcamp & The Odin Project**
-- [ ]  [Beginning Web Development - Epicodus](https://www.learnhowtoprogram.com/introduction-to-programming) pm
-    - [ ]  [Web Development 101 - The Odin Project](https://www.theodinproject.com/courses/web-development-101) am
-- [ ]  [Intermediate Javascript - Epicodus](https://www.learnhowtoprogram.com/intermediate-javascript) pm
-    - [ ]  [Javascript - The Odin Project](https://www.theodinproject.com/courses/javascript) am
+- [ ]  [Beginning Web Development - Epicodus](https://www.learnhowtoprogram.com/introduction-to-programming) 
+- [ ]  [Web Development 101 - The Odin Project](https://www.theodinproject.com/courses/web-development-101) 
+- [ ]  [Intermediate Javascript - Epicodus](https://www.learnhowtoprogram.com/intermediate-javascript) 
+- [ ]  [Javascript - The Odin Project](https://www.theodinproject.com/courses/javascript) 
 - [ ]  [React - Epicodus](https://www.learnhowtoprogram.com/react)
 - [ ]  [NodeJS - The Odin Project](https://www.theodinproject.com/courses/nodejs)
 - [ ]  [User Interfaces - Epicodus](https://www.learnhowtoprogram.com/user-interfaces) skip all lessons that has to do with Sketch
