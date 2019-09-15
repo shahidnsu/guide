@@ -13,16 +13,8 @@
 - _do in the afternoon_
 - [ ]  A & DS in JS p1
 - [ ]  A & DS in JS p2
----
-**SQL Courses**
-- _do in the afternoon_
-- [ ]  [Intro to SQL: Querying and managing data - khan academy](https://www.khanacademy.org/computing/computer-programming/sql)
-- [ ]  [Introduction to Databases - mini courses - Stanford](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)
-- [ ]  [SQL Teaching](https://www.sqlteaching.com/)
-- [ ]  [SQL Zoo](https://sqlzoo.net/)
-- [ ]  [SQL Course - StudyByYourself](http://studybyyourself.com/seminar/sql/course/?lang=en)
-- [ ]  [SQL Bolt](https://sqlbolt.com/)
-- [ ]  [PostgreSQL Exercises](https://pgexercises.com/)
+- [ ]  [Algorithms: Design and Analysis Part 1 - Stanford](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms1+SelfPaced/about)
+- [ ]  [Algorithms: Design and Analysis Part 2 - Stanford](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms2+SelfPaced/about)
 ---
 ---
 **Epicodus Bootcamp & The Odin Project**
@@ -30,14 +22,18 @@
 - [ ]  [Web Development 101 - The Odin Project](https://www.theodinproject.com/courses/web-development-101) 
 - [ ]  [Intermediate Javascript - Epicodus](https://www.learnhowtoprogram.com/intermediate-javascript) 
 - [ ]  [Javascript - The Odin Project](https://www.theodinproject.com/courses/javascript) 
+- [ ]  [Full Stack Open - moocfi](https://www.mooc.fi/en/) only if available again on June 2020
 - [ ]  [React - Epicodus](https://www.learnhowtoprogram.com/react)
 - [ ]  [NodeJS - The Odin Project](https://www.theodinproject.com/courses/nodejs)
 - [ ]  [User Interfaces - Epicodus](https://www.learnhowtoprogram.com/user-interfaces) skip all lessons that has to do with Sketch
 - [ ]  [HTML and CSS - The Odin Project](https://www.theodinproject.com/courses/html5-and-css3)
 ---
-- [ ]  [C# and .NET Core - Epicodus](https://www.learnhowtoprogram.com/c-and-net)
-- [ ]  [Ruby and Rails - Epicodus](https://www.learnhowtoprogram.com/ruby-and-rails)
+- [ ]  [C# and .NET Core - Epicodus](https://www.learnhowtoprogram.com/c-and-net) (uses mysql)
+- [ ]  [Ruby and Rails - Epicodus](https://www.learnhowtoprogram.com/ruby-and-rails) (uses postgresql)
 ---
 ---
-- [ ]  [Computer Science Algorithms Specialization using Java- P1xt](https://github.com/P1xt/p1xt-guides/blob/master/specializations/algorithms.md)
+- [ ]  moocfi java p1
+- [ ]  moocfi java p2
+- [ ]  hyperskills java (if still free, if not free do javanotes by david eck)
+- [ ]  spring boot
 
