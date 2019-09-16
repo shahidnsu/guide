@@ -3,7 +3,7 @@
 ---
 ---
 **Math Reviews ++**
-- _do in the morning - do gradually/incrementally alongside a&ds_
+- _do in the afternoon - do gradually/incrementally_
 - [ ]  [Just the Maths - Hobson](https://archive.uea.ac.uk/jtm/contents.htm) 
 - [ ]  [Discrete Math 1 - TheTrevTutor](https://www.youtube.com/playlist?list=PLDDGPdw7e6Ag1EIznZ-m-qXu4XX3A0cIz)
 - [ ]  [Discrete Math 2 - TheTrevTutor](https://www.youtube.com/playlist?list=PLDDGPdw7e6Aj0amDsYInT_8p6xTSTGEi2)
@@ -11,15 +11,26 @@
 - [ ]  [Algorithms & Data Structures - CS Dojo](https://www.youtube.com/playlist?list=PLBZBJbE_rGRV8D7XZ08LK6z-4zPoWzu5H)
 - [ ]  [Cracking the Coding Interview - hackerRank](https://www.youtube.com/playlist?list=PLOuZYwbmgZWXvkghUyMLdI90IwxbNCiWK)
 ---
+**SQL Courses**
+- _do in the afternoon - do incrementally/gradually after math reviews_
+- [ ]  [Intro to SQL: Querying and managing data - khan academy](https://www.khanacademy.org/computing/computer-programming/sql)
+- [ ]  [Introduction to Databases - mini courses - Stanford](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)
+- [ ]  [SQL Teaching](https://www.sqlteaching.com/)
+- [ ]  [SQL Zoo](https://sqlzoo.net/)
+- [ ]  [SQL Course - StudyByYourself](http://studybyyourself.com/seminar/sql/course/?lang=en)
+- [ ]  [SQL Bolt](https://sqlbolt.com/)
+- [ ]  [PostgreSQL Exercises](https://pgexercises.com/)
+---
+---
 **Algorithms & Data Structures**
-- _do in the afternoon- do gradually/incrementally alongside maths reviews_
+- _do in the morning- do gradually/incrementally_
 - [ ]  A & DS in JS p1
 - [ ]  A & DS in JS p2
 - [ ]  [Algorithms: Design and Analysis Part 1 - Stanford](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms1+SelfPaced/about)
 - [ ]  [Algorithms: Design and Analysis Part 2 - Stanford](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms2+SelfPaced/about)
 ---
-**Javascript Readings**
-- _do in the afternoon after algorithms_
+**Further Javascript Readings**
+- _do in the morning after algorithms_
 - [ ]  [You Don't Know JS Yet (book series) - 2nd Edition](https://github.com/getify/You-Dont-Know-JS/tree/2nd-ed) for editing, to list each series
 - [ ]  [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix/read)
 - [ ]  [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/)
