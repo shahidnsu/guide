@@ -12,7 +12,7 @@
 - [ ]  [Cracking the Coding Interview - hackerRank](https://www.youtube.com/playlist?list=PLOuZYwbmgZWXvkghUyMLdI90IwxbNCiWK)
 ---
 **SQL Courses**
-- _do in the afternoon - do incrementally/gradually after math reviews_
+- _do in the afternoon - do incrementally/gradually alongside math reviews_
 - [ ]  [Intro to SQL: Querying and managing data - khan academy](https://www.khanacademy.org/computing/computer-programming/sql)
 - [ ]  [Introduction to Databases - mini courses - Stanford](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)
 - [ ]  [SQL Teaching](https://www.sqlteaching.com/)
@@ -31,7 +31,12 @@
 ---
 **Further Javascript Readings**
 - _do in the morning after algorithms_
-- [ ]  [You Don't Know JS Yet (book series) - 2nd Edition](https://github.com/getify/You-Dont-Know-JS/tree/2nd-ed) for editing, to list each series
+- You Don't Know JS Yet (book series) - 2nd Edition
+    - [ ]  [Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/scope-closures/README.md)
+    - [ ]  [this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/this-object-prototypes/README.md)
+    - [ ]  [Types & Grammar](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/types-grammar/README.md)
+    - [ ]  [Async & Performance](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/async-performance/README.md)
+    - [ ]  [ES.Next & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/es-next-beyond/README.md)
 - [ ]  [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix/read)
 - [ ]  [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/)
 - [ ]  [Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS)
@@ -51,6 +56,7 @@
 - [ ]  [HTML and CSS - The Odin Project](https://www.theodinproject.com/courses/html5-and-css3)
 ---
 ---
+---
 **Learn Another Programming Language & its Stack**
 - _these are the possible future courses that I might/would like to tackle, depending on the situation by the time I reached this part of the guide_
 - [ ]  [C# and .NET Core - Epicodus](https://www.learnhowtoprogram.com/c-and-net) (uses mysql)
@@ -58,12 +64,14 @@
 - [ ]  [Ruby and Rails - Epicodus](https://www.learnhowtoprogram.com/ruby-and-rails) (uses postgresql)
 
 ---
-- [ ]  moocfi java p1
-- [ ]  moocfi java p2
-- [ ]  hyperskills java (if still free, if not free do javanotes by david eck)
-- [ ]  spring boot
+- [ ]  [Object-Oriented programming with Java, part I - moocfi](http://moocfi.github.io/courses/2013/programming-part-1/material.html)
+- [ ]  [Object-Oriented programming with Java, part II - moocfi](http://moocfi.github.io/courses/2013/programming-part-2/material.html)
+- [ ]  [HyperSkill Java - JetBrains Academy](https://hi.hyperskill.org/projects3) or javanotes by David Eck 
+- [ ]  spring boot ++ anything that has to do with backend and frontend
 ---
-- [ ]  elixir
+- [ ]  elixir/phoenix
 ---
 - [ ]  golang
+---
+- [ ]  scala/play
 
