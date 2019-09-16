@@ -32,6 +32,15 @@
 - [ ]  [HTML and CSS - The Odin Project](https://www.theodinproject.com/courses/html5-and-css3)
 ---
 ---
+**Further Javascript Readings**
+- [ ]  [You Don't Know JS Yet (book series) - 2nd Edition](https://github.com/getify/You-Dont-Know-JS/tree/2nd-ed) for editing, to list each series
+- [ ]  [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix/read)
+- [ ]  [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/)
+- [ ]  [Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS)
+- [ ]  [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+---
+---
+**Learn Another Programming Language & its Stack**
 - _these are future courses that I would like to do, will see which of these I might tackle once I've completed epicodus&top bootcamp_
 - [ ]  [C# and .NET Core - Epicodus](https://www.learnhowtoprogram.com/c-and-net) (uses mysql)
 ---
