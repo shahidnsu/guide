@@ -48,19 +48,20 @@
 ---
 **Learn Another Programming Language & its Stack**
 - _these are the possible future courses that I might/would like to tackle, depending on the situation by the time I reached this part of the guide_
-- [ ]  [C# and .NET Core - Epicodus](https://www.learnhowtoprogram.com/c-and-net) (uses mysql)
----
-- [ ]  [Ruby and Rails - Epicodus](https://www.learnhowtoprogram.com/ruby-and-rails) (uses postgresql)
-
 ---
 - [ ]  [Object-Oriented programming with Java, part I - moocfi](http://moocfi.github.io/courses/2013/programming-part-1/material.html)
 - [ ]  [Object-Oriented programming with Java, part II - moocfi](http://moocfi.github.io/courses/2013/programming-part-2/material.html)
 - [ ]  [HyperSkill Java - JetBrains Academy](https://hi.hyperskill.org/projects3) or javanotes by David Eck 
 - [ ]  spring boot ++ anything that has to do with backend and frontend
+- [ ]  perhaps time to get a java associate certification?
+- [ ]  perhaps time to get a java professional certification?
 ---
-- [ ]  elixir/phoenix
+- [ ]  scala/play
 ---
 - [ ]  golang
 ---
-- [ ]  scala/play
-
+- [ ]  elixir/phoenix
+---
+- [ ]  [C# and .NET Core - Epicodus](https://www.learnhowtoprogram.com/c-and-net) (uses mysql)
+---
+- [ ]  [Ruby and Rails - Epicodus](https://www.learnhowtoprogram.com/ruby-and-rails) (uses postgresql)
