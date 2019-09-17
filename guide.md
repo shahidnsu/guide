@@ -3,16 +3,25 @@
 ---
 ---
 **Math Reviews ++**
-- _do in the afternoon - do gradually/incrementally_
-- [ ]  [Just the Maths - Hobson](https://archive.uea.ac.uk/jtm/contents.htm) 
+- _do in the morning - do gradually/incrementally alongside a&ds-jsreadings & sql_
+- [ ]  [Just the Maths - Hobson](https://archive.uea.ac.uk/jtm/contents.htm)
+--- 
+- _do in the evening - do gradually/incrementally alongside a&ds-jsreadings & sql_
 - [ ]  [Discrete Math 1 - TheTrevTutor](https://www.youtube.com/playlist?list=PLDDGPdw7e6Ag1EIznZ-m-qXu4XX3A0cIz)
 - [ ]  [Discrete Math 2 - TheTrevTutor](https://www.youtube.com/playlist?list=PLDDGPdw7e6Aj0amDsYInT_8p6xTSTGEi2)
 - [ ]  [Math for Computer Science - MIT](https://www.youtube.com/playlist?list=PLUl4u3cNGP60UlabZBeeqOuoLuj_KNphQ)
 - [ ]  [Algorithms & Data Structures - CS Dojo](https://www.youtube.com/playlist?list=PLBZBJbE_rGRV8D7XZ08LK6z-4zPoWzu5H)
 - [ ]  [Cracking the Coding Interview - hackerRank](https://www.youtube.com/playlist?list=PLOuZYwbmgZWXvkghUyMLdI90IwxbNCiWK)
 ---
+**Algorithms & Data Structures**
+- _do in the morning - do gradually/incrementally per topic alongside maths reviews & sql_
+- [ ]  A & DS in JS p1
+- [ ]  A & DS in JS p2
+- [ ]  [Algorithms: Design and Analysis Part 1 - Stanford](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms1+SelfPaced/about)
+- [ ]  [Algorithms: Design and Analysis Part 2 - Stanford](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms2+SelfPaced/about)
+---
 **SQL Courses**
-- _do in the afternoon - do incrementally/gradually alongside math reviews_
+- _do in the morning - do incrementally/gradually alongside math reviews and algorithms-jsreadings_
 - [ ]  [Intro to SQL: Querying and managing data - khan academy](https://www.khanacademy.org/computing/computer-programming/sql)
 - [ ]  [Introduction to Databases - mini courses - Stanford](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)
 - [ ]  [SQL Teaching](https://www.sqlteaching.com/)
@@ -21,16 +30,8 @@
 - [ ]  [SQL Bolt](https://sqlbolt.com/)
 - [ ]  [PostgreSQL Exercises](https://pgexercises.com/)
 ---
----
-**Algorithms & Data Structures**
-- _do in the morning- do gradually/incrementally_
-- [ ]  A & DS in JS p1
-- [ ]  A & DS in JS p2
-- [ ]  [Algorithms: Design and Analysis Part 1 - Stanford](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms1+SelfPaced/about)
-- [ ]  [Algorithms: Design and Analysis Part 2 - Stanford](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms2+SelfPaced/about)
----
 **Further Javascript Readings**
-- _do in the morning after algorithms_
+- _do in the morning after algorithms & data structures_
 - You Don't Know JS Yet (book series) - 2nd Edition
     - [ ]  [Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/scope-closures/README.md)
     - [ ]  [this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/this-object-prototypes/README.md)
@@ -44,7 +45,7 @@
 ---
 ---
 **Epicodus Bootcamp & The Odin Project**
-- _do in the evening gradually/incrementally/consistently_
+- _do in the afternoon and evening gradually/incrementally/consistently_
 - [ ]  [Beginning Web Development - Epicodus](https://www.learnhowtoprogram.com/introduction-to-programming) 
 - [ ]  [Web Development 101 - The Odin Project](https://www.theodinproject.com/courses/web-development-101) 
 - [ ]  [Intermediate Javascript - Epicodus](https://www.learnhowtoprogram.com/intermediate-javascript) 
