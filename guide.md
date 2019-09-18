@@ -30,6 +30,10 @@
 - [ ]  [SQL Bolt](https://sqlbolt.com/)
 - [ ]  [PostgreSQL Exercises](https://pgexercises.com/)
 ---
+**More CSS Practice**
+- _do in the afternoon - do incrementally/gradually after sql_
+- [ ]  [100 Days of (S)CSS - P1xt](https://codepen.io/collection/AVPPQq/)
+---
 ---
 **Epicodus Bootcamp & The Odin Project**
 - _do in the evening gradually/incrementally/consistently_
@@ -37,6 +41,8 @@
 - [ ]  [Intermediate Javascript - Epicodus](https://www.learnhowtoprogram.com/intermediate-javascript) 
 - [ ]  [React - Epicodus](https://www.learnhowtoprogram.com/react)
 - [ ]  [User Interfaces - Epicodus](https://www.learnhowtoprogram.com/user-interfaces) skip all lessons that has to do with Sketch
+---
+- [ ]  [Full Stack Open 2020? - moocfi](https://www.mooc.fi/en/) if available by June 2020
 ---
 - _do in the morning gradually/incrementally/consistently_
 - [ ]  [Web Development 101 - The Odin Project](https://www.theodinproject.com/courses/web-development-101) 
