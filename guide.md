@@ -1,5 +1,6 @@
 # A Guide Just for Me ;-)
 ### Date Started: September 9, 2019
+### Estimated Time to Complete the Guide: 2 to 3 Years
 ---
 ---
 **Math Reviews ++**
@@ -35,26 +36,24 @@
 - [ ]  [100 Days of (S)CSS - P1xt](https://codepen.io/collection/AVPPQq/)
 ---
 ---
-**Epicodus Bootcamp & The Odin Project**
-- _do in the evening gradually/incrementally/consistently_
+**Epicodus & The Odin Project Hands-On Bootcamp**
+- _do in the morning & evening gradually/incrementally/consistently_
 - [ ]  [Beginning Web Development - Epicodus](https://www.learnhowtoprogram.com/introduction-to-programming) 
-- [ ]  [Intermediate Javascript - Epicodus](https://www.learnhowtoprogram.com/intermediate-javascript) 
-- [ ]  [React - Epicodus](https://www.learnhowtoprogram.com/react)
-- [ ]  [User Interfaces - Epicodus](https://www.learnhowtoprogram.com/user-interfaces) skip all lessons that has to do with Sketch
----
-- [ ]  [Full Stack Open 2020? - moocfi](https://www.mooc.fi/en/) if available by June 2020
----
-- _do in the morning gradually/incrementally/consistently_
 - [ ]  [Web Development 101 - The Odin Project](https://www.theodinproject.com/courses/web-development-101) 
-- [ ]  [Javascript - The Odin Project](https://www.theodinproject.com/courses/javascript) 
+- [ ]  [Intermediate Javascript - Epicodus](https://www.learnhowtoprogram.com/intermediate-javascript) 
+- [ ]  [Javascript - The Odin Project](https://www.theodinproject.com/courses/javascript)
+- [ ]  [Full Stack Open 2020? - moocfi](https://www.mooc.fi/en/) if available by June 2020 
+- [ ]  [React - Epicodus](https://www.learnhowtoprogram.com/react)
 - [ ]  [NodeJS - The Odin Project](https://www.theodinproject.com/courses/nodejs)
+- [ ]  [User Interfaces - Epicodus](https://www.learnhowtoprogram.com/user-interfaces) skip all lessons that has to do with Sketch
 - [ ]  [HTML and CSS - The Odin Project](https://www.theodinproject.com/courses/html5-and-css3)
 ---
 ---
 ---
-**Learn Another Programming Language & its Stack**
-- _these are the possible future courses that I might/would like to tackle, depending on the situation by the time I reached this part of the guide_
+**Beyond the Guide, but a New Venture; to Learn Another Programming Language & its Stack**
+- _these are the possible future courses that I might/would like to tackle, (I prefer Java though) but will see by the time I reached this part of the guide_
 ---
+**Java Backend**
 - [ ]  [Object-Oriented programming with Java, part I - moocfi](http://moocfi.github.io/courses/2013/programming-part-1/material.html)
 - [ ]  [Object-Oriented programming with Java, part II - moocfi](http://moocfi.github.io/courses/2013/programming-part-2/material.html)
 - [ ]  [HyperSkill Java - JetBrains Academy](https://hi.hyperskill.org/projects3) or javanotes by David Eck 
