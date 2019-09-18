@@ -4,10 +4,10 @@
 ---
 ---
 **Math Reviews ++**
-- _do in the evening - do gradually/incrementally alongside epicodus_
+- _do in the evening - do gradually/incrementally alongside algorithms_
 - [ ]  [Just the Maths - Hobson](https://archive.uea.ac.uk/jtm/contents.htm)
 --- 
-- _do in the evening - do gradually/incrementally alongside epicodus_
+- _do in the evening - do gradually/incrementally alongside maths & algorithms_
 - [ ]  [Discrete Math 1 - TheTrevTutor](https://www.youtube.com/playlist?list=PLDDGPdw7e6Ag1EIznZ-m-qXu4XX3A0cIz)
 - [ ]  [Discrete Math 2 - TheTrevTutor](https://www.youtube.com/playlist?list=PLDDGPdw7e6Aj0amDsYInT_8p6xTSTGEi2)
 - [ ]  [Math for Computer Science - MIT](https://www.youtube.com/playlist?list=PLUl4u3cNGP60UlabZBeeqOuoLuj_KNphQ)
@@ -15,7 +15,7 @@
 - [ ]  [Cracking the Coding Interview - hackerRank](https://www.youtube.com/playlist?list=PLOuZYwbmgZWXvkghUyMLdI90IwxbNCiWK)
 ---
 **Algorithms & Data Structures**
-- _do in the evening - do gradually/incrementally_
+- _do in the evening - do gradually/incrementally alongside maths_
 - [ ]  [Learning JavaScript Data Structures and Algorithms](https://www.amazon.com/Learning-JavaScript-Data-Structures-Algorithms-ebook/dp/B01C2XX8Y2/ref=sr_1_3?keywords=learning+algorithms+in+javascript&qid=1568738494&s=books&sr=1-3)
 - [ ]  [Data Structures and Algorithms with JavaScript](https://www.amazon.com/Data-Structures-Algorithms-JavaScript-approaches-ebook/dp/B00IV3J23Y/ref=sr_1_6?keywords=learning+algorithms+in+javascript&qid=1568738526&s=books&sr=1-6)
 - [ ]  [Algorithms: Design and Analysis Part 1 - Stanford](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms1+SelfPaced/about)
