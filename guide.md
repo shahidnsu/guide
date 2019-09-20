@@ -3,33 +3,26 @@
 ### Estimated Time to Complete the Guide: 2 to 3 Years
 ---
 ---
-**Math Reviews and Algorithms & Data Structures**
-- _do in the evening - do gradually/incrementally_
-- _**ProfRobBob Maths Video Lessons**_ (to do alongside DM to A&DS)
-    - [ ]  [Algebra 1](https://www.youtube.com/playlist?list=PLGbL7EvScmU7ZqJW4HumYdDYv12Wt3yOk)
-    - [ ]  [Algebra 2](https://www.youtube.com/playlist?list=PL8880EEBC26894DF4)
-    - [ ]  [PreCalculus](https://www.youtube.com/playlist?list=PL4FB17E5C77DCCE69)
-    - [ ]  [Matrices](https://www.youtube.com/playlist?list=PL35C36B9994A1965A)
-    - [ ]  [Linear Algebra](https://www.youtube.com/playlist?list=PLGbL7EvScmU4yeJjKaSrp2R7DN6czOV2y)
-    - [ ]  [Vectors](https://www.youtube.com/watch?v=0uAJpsanhl0&list=PLGbL7EvScmU65gODlS0IWZLRgnfcqx1lm)
-    - [ ]  [Analytical Geometry](https://www.youtube.com/playlist?list=PLA46E81644902D30A)
-    - [ ]  [Statistics](https://www.youtube.com/playlist?list=PLC8478000586FA6F9)
-    - [ ]  [Geometry](https://www.youtube.com/playlist?list=PL668AB35C6885A036)
-    - [ ]  [Trigonometry](https://www.youtube.com/playlist?list=PL085526F86A268B57)
-    - [ ]  [Calculus 1](https://www.youtube.com/playlist?list=PL67C119EDA6BDE946)
-    - [ ]  [Calculus 2](https://www.youtube.com/watch?v=HTjPPDZqL4E&list=PLGbL7EvScmU6gCv6eKQdj45Sp_VdqhsUv)
-- [ ]  [Discrete Math 1 - TheTrevTutor](https://www.youtube.com/playlist?list=PLDDGPdw7e6Ag1EIznZ-m-qXu4XX3A0cIz)
-- [ ]  [Discrete Math 2 - TheTrevTutor](https://www.youtube.com/playlist?list=PLDDGPdw7e6Aj0amDsYInT_8p6xTSTGEi2)
-- [ ]  [Math for Computer Science - MIT](https://www.youtube.com/playlist?list=PLUl4u3cNGP60UlabZBeeqOuoLuj_KNphQ)
-- [ ]  [Algorithms & Data Structures - CS Dojo](https://www.youtube.com/playlist?list=PLBZBJbE_rGRV8D7XZ08LK6z-4zPoWzu5H)
-- [ ]  [Cracking the Coding Interview - hackerRank](https://www.youtube.com/playlist?list=PLOuZYwbmgZWXvkghUyMLdI90IwxbNCiWK)
+**Maths and Algorithms & Data Structures**
+- _do in the morning - do gradually/incrementally alongside the guide_
+- [ ]  [Basic geometry](https://www.khanacademy.org/math/basic-geo)
+- [ ]  [Pre-algebra](https://www.khanacademy.org/math/pre-algebra)
+- [ ]  [Algebra basics](https://www.khanacademy.org/math/algebra-basics)
+- [ ]  [Algebra 1 - Khan Academy](https://www.khanacademy.org/math/algebra)
+- [ ]  [Algebra 2 - Khan Academy](https://www.khanacademy.org/math/algebra2)
+- [ ]  [Trigonometry - Khan Academy](https://www.khanacademy.org/math/trigonometry)
+- [ ]  [Precalculus - Khan Academy](https://www.khanacademy.org/math/precalculus)
+- [ ]  [Statistics and probability - Khan Academy](https://www.khanacademy.org/math/statistics-probability)
+- [ ]  [Discrete Mathematics for Computing - Munro](https://www.amazon.com/Discrete-Mathematics-Computing-John-Munro/dp/0412456508)
+- [ ]  [Algorithms - Khan Academy](https://www.khanacademy.org/computing/computer-science/algorithms)
 - [ ]  [Algorithms: Design and Analysis Part 1 - Stanford](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms1+SelfPaced/about)
 - [ ]  [Algorithms: Design and Analysis Part 2 - Stanford](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms2+SelfPaced/about)
-- [ ]  [Learning JavaScript Data Structures and Algorithms](https://www.amazon.com/Learning-JavaScript-Data-Structures-Algorithms-ebook/dp/B01C2XX8Y2/ref=sr_1_3?keywords=learning+algorithms+in+javascript&qid=1568738494&s=books&sr=1-3)
-- [ ]  [Data Structures and Algorithms with JavaScript](https://www.amazon.com/Data-Structures-Algorithms-JavaScript-approaches-ebook/dp/B00IV3J23Y/ref=sr_1_6?keywords=learning+algorithms+in+javascript&qid=1568738526&s=books&sr=1-6) 
+- [ ]  [Linear Algebra - Foundations to Frontiers - UTAustinX](https://www.edx.org/course/linear-algebra-foundations-to-frontiers-2) if available only
+- [ ]  [Calculus 1 - Khan Academy](https://www.khanacademy.org/math/calculus-1)
+- [ ]  [Calculus 2 - Khan Academy](https://www.khanacademy.org/math/calculus-2)
 ---
 **SQL Courses**
-- _do in the evening - do incrementally/gradually after maths & algorithms_
+- _do in the afternoon - do incrementally/gradually_
 - [ ]  [Intro to SQL: Querying and managing data - khan academy](https://www.khanacademy.org/computing/computer-programming/sql)
 - [ ]  [Introduction to Databases - mini courses - Stanford](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)
 - [ ]  [SQL Teaching](https://www.sqlteaching.com/)
@@ -39,12 +32,12 @@
 - [ ]  [PostgreSQL Exercises](https://pgexercises.com/)
 ---
 **More CSS Practice**
-- _do in the evening - do incrementally/gradually after sql_
+- _do in the afternoon - do incrementally/gradually after sql_
 - [ ]  [100 Days of (S)CSS - P1xt](https://codepen.io/collection/AVPPQq/)
 ---
 ---
 **Epicodus & The Odin Project Hands-On Bootcamp**
-- _do in the morning & afternoon gradually/incrementally/consistently_
+- _do in the evening gradually/incrementally/consistently_
 - [ ]  [Beginning Web Development - Epicodus](https://www.learnhowtoprogram.com/introduction-to-programming) 
 - [ ]  [Web Development 101 - The Odin Project](https://www.theodinproject.com/courses/web-development-101) 
 - [ ]  [Intermediate Javascript - Epicodus](https://www.learnhowtoprogram.com/intermediate-javascript) 
@@ -67,6 +60,8 @@
 - [ ]  spring boot ++ anything that has to do with backend and frontend
 - [ ]  perhaps time to get a java associate certification?
 - [ ]  perhaps time to get a java professional certification?
+- 
+- [ ]  [Computer Science - Algorithms Specialization using Java - P1xt](https://github.com/P1xt/p1xt-guides/blob/master/specializations/algorithms.md)
 ---
 - [ ]  scala/play
 ---
