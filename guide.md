@@ -3,26 +3,21 @@
 ### Estimated Time to Complete the Guide: 2 to 3 Years
 ---
 ---
-**Math Reviews ++**
-- _do in the evening - do gradually/incrementally alongside algorithms_
-- [ ]  [Just the Maths - Hobson](https://archive.uea.ac.uk/jtm/contents.htm)
---- 
-- _do in the evening - do gradually/incrementally alongside maths & algorithms_
+**Math Reviews and Algorithms & Data Structures**
+- _do in the afternoon - do gradually/incrementally_
+- [ ]  [Just the Maths - Hobson](https://archive.uea.ac.uk/jtm/contents.htm) do alongside a&ds and dm
 - [ ]  [Discrete Math 1 - TheTrevTutor](https://www.youtube.com/playlist?list=PLDDGPdw7e6Ag1EIznZ-m-qXu4XX3A0cIz)
 - [ ]  [Discrete Math 2 - TheTrevTutor](https://www.youtube.com/playlist?list=PLDDGPdw7e6Aj0amDsYInT_8p6xTSTGEi2)
 - [ ]  [Math for Computer Science - MIT](https://www.youtube.com/playlist?list=PLUl4u3cNGP60UlabZBeeqOuoLuj_KNphQ)
 - [ ]  [Algorithms & Data Structures - CS Dojo](https://www.youtube.com/playlist?list=PLBZBJbE_rGRV8D7XZ08LK6z-4zPoWzu5H)
 - [ ]  [Cracking the Coding Interview - hackerRank](https://www.youtube.com/playlist?list=PLOuZYwbmgZWXvkghUyMLdI90IwxbNCiWK)
----
-**Algorithms & Data Structures**
-- _do in the evening - do gradually/incrementally alongside maths_
-- [ ]  [Learning JavaScript Data Structures and Algorithms](https://www.amazon.com/Learning-JavaScript-Data-Structures-Algorithms-ebook/dp/B01C2XX8Y2/ref=sr_1_3?keywords=learning+algorithms+in+javascript&qid=1568738494&s=books&sr=1-3)
-- [ ]  [Data Structures and Algorithms with JavaScript](https://www.amazon.com/Data-Structures-Algorithms-JavaScript-approaches-ebook/dp/B00IV3J23Y/ref=sr_1_6?keywords=learning+algorithms+in+javascript&qid=1568738526&s=books&sr=1-6)
 - [ ]  [Algorithms: Design and Analysis Part 1 - Stanford](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms1+SelfPaced/about)
 - [ ]  [Algorithms: Design and Analysis Part 2 - Stanford](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms2+SelfPaced/about)
+- [ ]  [Learning JavaScript Data Structures and Algorithms](https://www.amazon.com/Learning-JavaScript-Data-Structures-Algorithms-ebook/dp/B01C2XX8Y2/ref=sr_1_3?keywords=learning+algorithms+in+javascript&qid=1568738494&s=books&sr=1-3)
+- [ ]  [Data Structures and Algorithms with JavaScript](https://www.amazon.com/Data-Structures-Algorithms-JavaScript-approaches-ebook/dp/B00IV3J23Y/ref=sr_1_6?keywords=learning+algorithms+in+javascript&qid=1568738526&s=books&sr=1-6) 
 ---
 **SQL Courses**
-- _do in the evening - do incrementally/gradually after algorithms_
+- _do in the afternoon - do incrementally/gradually after maths & algorithms_
 - [ ]  [Intro to SQL: Querying and managing data - khan academy](https://www.khanacademy.org/computing/computer-programming/sql)
 - [ ]  [Introduction to Databases - mini courses - Stanford](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)
 - [ ]  [SQL Teaching](https://www.sqlteaching.com/)
@@ -32,12 +27,12 @@
 - [ ]  [PostgreSQL Exercises](https://pgexercises.com/)
 ---
 **More CSS Practice**
-- _do in the evening - do incrementally/gradually after sql_
+- _do in the afternoon - do incrementally/gradually after sql_
 - [ ]  [100 Days of (S)CSS - P1xt](https://codepen.io/collection/AVPPQq/)
 ---
 ---
 **Epicodus & The Odin Project Hands-On Bootcamp**
-- _do in the morning & afternoon gradually/incrementally/consistently_
+- _do in the morning & evening gradually/incrementally/consistently_
 - [ ]  [Beginning Web Development - Epicodus](https://www.learnhowtoprogram.com/introduction-to-programming) 
 - [ ]  [Web Development 101 - The Odin Project](https://www.theodinproject.com/courses/web-development-101) 
 - [ ]  [Intermediate Javascript - Epicodus](https://www.learnhowtoprogram.com/intermediate-javascript) 
