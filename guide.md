@@ -17,7 +17,6 @@
 - [ ]  [Algorithms - Khan Academy](https://www.khanacademy.org/computing/computer-science/algorithms)
 - [ ]  [Algorithms: Design and Analysis Part 1 - Stanford](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms1+SelfPaced/about)
 - [ ]  [Algorithms: Design and Analysis Part 2 - Stanford](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms2+SelfPaced/about)
-- [ ]  [Linear Algebra - Foundations to Frontiers - UTAustinX](https://www.edx.org/course/linear-algebra-foundations-to-frontiers-2) if available only
 - [ ]  [Calculus 1 - Khan Academy](https://www.khanacademy.org/math/calculus-1)
 - [ ]  [Calculus 2 - Khan Academy](https://www.khanacademy.org/math/calculus-2)
 ---
@@ -60,7 +59,7 @@
 - [ ]  spring boot ++ anything that has to do with backend and frontend
 - [ ]  perhaps time to get a java associate certification?
 - [ ]  perhaps time to get a java professional certification?
-- 
+- _More CS Stuff_
 - [ ]  [Computer Science - Algorithms Specialization using Java - P1xt](https://github.com/P1xt/p1xt-guides/blob/master/specializations/algorithms.md)
 ---
 - [ ]  scala/play
